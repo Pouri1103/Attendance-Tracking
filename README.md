@@ -11,6 +11,10 @@ lock here means an item that takes a share from its daily sales and is not an im
 3. The ability to log the amount for each hour and each lock
 
 ---
-<br>
 
 ![App Photo](App-Photo.png)
+
+---
+
+> [!NOTE]\
+> This project is temporarily not being developed because it was not used.
